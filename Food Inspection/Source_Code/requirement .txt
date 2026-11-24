@@ -1,0 +1,8 @@
+streamlit
+pandas
+pillow
+google-genai
+pydantic
+reportlab
+matplotlib
+pytesseract
